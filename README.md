@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello World, I'm Yudhi 
 
 <!--
 **yudhi1933/yudhi1933** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+I’m currently learning **Type Script**
+
+![Hello](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemQwYXMwbXFlZm5taTR1YTg1NmQ3Zmt6MTRscDNoOHFzMHpmaG0xaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4KzpjLvJjJknJ5Xuak/giphy.gif)
