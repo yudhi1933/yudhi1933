@@ -1,6 +1,6 @@
 ## Hello World, I'm Yudhi
 
-![hello](./img/github-header-image.png)
+<!-- ![hello](./img/github-header-image.png) -->
 <!--
 **yudhi1933/yudhi1933** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
