@@ -23,13 +23,6 @@
 
 ---
 
-### 📊 GitHub Stats
-![Yudhi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YUDHI&show_icons=true&theme=radical)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YUDHI&layout=compact&theme=radical)  
-
----
-
 ### 🚀 Featured Projects
 - 🛒 **POS-V1** – Point of Sale System with React & Vite  
 - 🎥 **LMS YouTube Clone** – Learning Management System with Next.js & Payload CMS  
