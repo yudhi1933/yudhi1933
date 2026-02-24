@@ -32,7 +32,7 @@
 
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yudhi-yudhi-3b1556386/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://yudhi1933.github.io/portofolio2/)  
+[![Portfolio]](https://yudhi1933.github.io/portofolio2/)  
 
 ---
 
